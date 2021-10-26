@@ -12,7 +12,15 @@
 <body>
     <div id="header">Official website of NitroSoft-Games</div>
 
-    <div id="container"></div>
+    <div id="container">
+
+        <div id ="tileArea">
+
+            <div class="tile" id="games"></div>
+
+        </div>
+
+    </div>
 
     <div id="footer">
         &copy; NitroSoft-Games 2021
