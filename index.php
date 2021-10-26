@@ -15,7 +15,7 @@
     <div id="container"></div>
 
     <div id="footer">
-        &copy; NitroSoft-Games 2021
+        &copy; NitroSoft-Games 2021 chuj
     </div>
     
 </body>
