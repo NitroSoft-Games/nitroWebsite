@@ -1,0 +1,40 @@
+#post_topic{
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: black;
+    text-align: center;
+}
+
+.user_borderless{
+    display: inline-block;
+    width: 15%;
+    padding-right: 10px;
+    border-right: 1px solid grey;
+    margin-right: 20px;
+}
+
+.comment_info{
+    display: inline-block;
+    width: 80%;
+    position: absolute;
+    top: 30px;
+    font-size: 16px;
+}
+
+.comment_msg{
+    font-size: 18px;
+}
+
+.user_photo{
+    width: 90%;
+}
+
+.author_nick{
+    text-align: center;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+.user_photo{
+    border: 8px outset brown;
+}
