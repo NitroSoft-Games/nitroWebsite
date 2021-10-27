@@ -16,7 +16,7 @@
 
         <div id ="tileArea">
 
-            <div class="tile" id="games"></div>
+            <a href="qForum/login.php" style="color: red; size: 24px;">Szybko! Spierdalamy do 1986</a>
 
         </div>
 
