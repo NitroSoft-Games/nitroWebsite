@@ -1,0 +1,41 @@
+body{
+    background-color: #272c2c;
+}
+
+#container{
+    position: relative;
+    top: 0;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #88fda5;
+    padding: 8px;
+    min-height: 90vh;
+}
+
+table{
+    width: 100%;
+    vertical-align: top;
+    table-layout: fixed
+}
+
+#logged_as{
+    text-align: left;
+    color: rgb(211, 0, 0);
+    font-weight: 900;
+    vertical-align: top;
+}
+
+#clock{
+    text-align: center;
+    color: rgb(95, 2, 149);
+    font-weight: 600;
+    font-size: 30px;
+}
+
+#last_seen{
+    text-align: right;
+    color: rgb(27, 61, 255);
+    font-weight: 900;
+    vertical-align: top;
+}
+

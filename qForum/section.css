@@ -1,0 +1,12 @@
+#section_title{
+    left: 15px;
+    color: #af6300;
+    font-size: 35px;
+}
+
+#link_chain a{
+    text-decoration: none;
+    color: royalblue;
+    font-size: 17px;
+    font-family: Verdana;
+}
