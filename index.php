@@ -11,20 +11,21 @@
 </head>
 <body>
     <div id="header">Official website of NitroSoft-Games</div>
-
     <div id="container">
 
         <div id ="tileArea">
 
-            <a href="qForum/login.php" style="color: red; size: 24px;">Szybko! Spierdalamy do 1986</a>
+            <div class="tile" id="games"></div>
 
+            <a href="./qForum/login.php">
+            <div class="tile" id="forum" ></div></a>
+            
         </div>
-
+        
     </div>
 
     <div id="footer">
         &copy; NitroSoft-Games 2021
     </div>
-    
 </body>
 </html>
