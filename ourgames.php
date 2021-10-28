@@ -11,12 +11,15 @@
     <body>
     <div id="header">Official website of NitroSoft-Games</div>
     <div id="container">
-        <div id ="tileArea">
-            <div class="tile" id="games"></div>
-        </div>
+        
+        <div id="leftBlock">KURWA</div>
+        <div id="rightBlock">CHUJ</div>
+
     </div>
+
     <div id="footer">
         &copy; NitroSoft-Games 2021
     </div>
+
 </body>
 </html>

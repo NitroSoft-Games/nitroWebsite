@@ -15,7 +15,8 @@
 
         <div id ="tileArea">
 
-            <div class="tile" id="games"></div>
+            <a href="ourGames.php">
+            <div class="tile" id="games"></div></a>
 
             <a href="./qForum/login.php">
             <div class="tile" id="forum" ></div></a>

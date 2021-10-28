@@ -20,8 +20,7 @@ body{
 }
 #container{
     width:100%;
-    min-height:85%;
-    height:auto;
+    height:85%; 
 }
 #footer{
     position:static;
@@ -64,4 +63,17 @@ body{
 
 #forum{
     background-image: url("img/qforum.png");
+}
+
+#leftBlock{
+    float:left;
+    width:20%;
+    height:100%;
+    background-color: red;
+}
+#rightBlock{
+    float:left;
+    width:80%;
+    height:100%;
+    background-color: aqua;
 }
