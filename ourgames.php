@@ -6,14 +6,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Our Games - NitroSoft Games</title>
     <link href='https://fonts.googleapis.com/css?family=Lobster' rel='stylesheet'>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="ourgames.css">
 </head>
     <body>
-    <div id="header">Official website of NitroSoft-Games</div>
+    <div id="header"></div>
     <div id="container">
         
-        <div id="leftBlock">KURWA</div>
-        <div id="rightBlock">CHUJ</div>
+        <div id="leftBlock">
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+            <div class="gameTile"></div>
+        </div>
+
+        <div id="rightBlock"></div>
 
     </div>
 
