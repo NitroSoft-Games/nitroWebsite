@@ -53,3 +53,65 @@ body{
     display: inline-block;
     
 }
+.icon{
+    width:100px;
+    height:100px;
+    margin-right:50px;
+    margin-left:20px;
+}
+#title{
+    margin-top:20px;
+    width:100%;
+    height:100px;
+    background-color: green; /*Domyślnie w oryginale ma być mocno-przeźroczyste*/
+    display:flex;
+    align-items:center;
+}
+span{
+    color: #cfd4d4;
+    font-size:400%;
+    text-shadow: 2px 2px 2px black;
+    cursor:default;
+}
+#status{
+    width:100%;
+    height:50px;
+    color:white;
+    font-size:200%;
+    margin-top:50px;
+    margin-bottom: 50px;
+    background-color: gray;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    display:flex;
+}
+#statusSpan{
+    font-size:150%;
+    margin-right: 20px;
+    
+}
+
+#planning{
+    background-color: green;
+}
+#analysis{
+    background-color: green;
+}
+#design{
+    background-color: red;
+}
+#testing{
+    background-color: red;
+}
+#release{
+    background-color: red;
+}
+.statusStage{
+    width:auto;
+    height:50px;
+    border: 2px black solid;
+    border-radius:4px;
+    margin:5px;
+    cursor:default;
+}

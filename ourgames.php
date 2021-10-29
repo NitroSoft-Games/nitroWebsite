@@ -27,7 +27,24 @@
             <div class="gameTile"></div>
         </div>
 
-        <div id="rightBlock"></div>
+        <div id="rightBlock">
+
+            <div id="title">
+                <img src="./img/icon/ikona.png" class="icon"><span>Tytuł gry</span></img>
+            </div>
+
+            <div id="status">
+                <span id="statusSpan">STATUS</span>
+
+                <div class="statusStage" id="planning">PLANNING</div>
+                <div class="statusStage" id="analysis">ANALYSIS</div>
+                <div class="statusStage" id="design">DESIGN</div>
+                <div class="statusStage" id="testing">TESTING</div>
+                <div class="statusStage" id="release">RELEASE</div>
+
+            </div>
+
+        </div>
 
     </div>
 
